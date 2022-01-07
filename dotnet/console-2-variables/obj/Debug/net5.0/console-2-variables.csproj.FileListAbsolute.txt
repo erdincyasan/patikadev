@@ -1,0 +1,16 @@
+C:\Users\Huriş\Desktop\DotnetProjects\patikadev\dotnet\console-2-variables\bin\Debug\net5.0\console-2-variables.exe
+C:\Users\Huriş\Desktop\DotnetProjects\patikadev\dotnet\console-2-variables\bin\Debug\net5.0\console-2-variables.deps.json
+C:\Users\Huriş\Desktop\DotnetProjects\patikadev\dotnet\console-2-variables\bin\Debug\net5.0\console-2-variables.runtimeconfig.json
+C:\Users\Huriş\Desktop\DotnetProjects\patikadev\dotnet\console-2-variables\bin\Debug\net5.0\console-2-variables.runtimeconfig.dev.json
+C:\Users\Huriş\Desktop\DotnetProjects\patikadev\dotnet\console-2-variables\bin\Debug\net5.0\console-2-variables.dll
+C:\Users\Huriş\Desktop\DotnetProjects\patikadev\dotnet\console-2-variables\bin\Debug\net5.0\ref\console-2-variables.dll
+C:\Users\Huriş\Desktop\DotnetProjects\patikadev\dotnet\console-2-variables\bin\Debug\net5.0\console-2-variables.pdb
+C:\Users\Huriş\Desktop\DotnetProjects\patikadev\dotnet\console-2-variables\obj\Debug\net5.0\console-2-variables.csproj.AssemblyReference.cache
+C:\Users\Huriş\Desktop\DotnetProjects\patikadev\dotnet\console-2-variables\obj\Debug\net5.0\console-2-variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huriş\Desktop\DotnetProjects\patikadev\dotnet\console-2-variables\obj\Debug\net5.0\console-2-variables.AssemblyInfoInputs.cache
+C:\Users\Huriş\Desktop\DotnetProjects\patikadev\dotnet\console-2-variables\obj\Debug\net5.0\console-2-variables.AssemblyInfo.cs
+C:\Users\Huriş\Desktop\DotnetProjects\patikadev\dotnet\console-2-variables\obj\Debug\net5.0\console-2-variables.csproj.CoreCompileInputs.cache
+C:\Users\Huriş\Desktop\DotnetProjects\patikadev\dotnet\console-2-variables\obj\Debug\net5.0\console-2-variables.dll
+C:\Users\Huriş\Desktop\DotnetProjects\patikadev\dotnet\console-2-variables\obj\Debug\net5.0\ref\console-2-variables.dll
+C:\Users\Huriş\Desktop\DotnetProjects\patikadev\dotnet\console-2-variables\obj\Debug\net5.0\console-2-variables.pdb
+C:\Users\Huriş\Desktop\DotnetProjects\patikadev\dotnet\console-2-variables\obj\Debug\net5.0\console-2-variables.genruntimeconfig.cache
